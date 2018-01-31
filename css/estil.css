@@ -141,7 +141,8 @@ h2{
     border-top-width: 0;
     border-right-width: 0;
     border-left-width: 0;
-text-align: justify;
+    text-align: justify;
+    margin: 10px 0 10px 0 ;
 }
 .esquerda{
 	border-style: solid;
