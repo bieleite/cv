@@ -115,6 +115,7 @@ img.imgheader{
 }
 h2.header{
 	text-transform: uppercase;
+	text-align: center;
 }
 h1.logo{
 	color: black;
@@ -163,6 +164,12 @@ h2{
 }
 .espaco{
 	color: white;
+}
+.experience{
+	line-height: 15px;
+}
+.formations{
+	line-height: 30px;
 }
 @media screen and (max-width: 480px) {
 	body{
